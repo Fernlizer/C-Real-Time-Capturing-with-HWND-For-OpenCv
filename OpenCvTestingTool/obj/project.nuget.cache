@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "THX072vihhF3CWphxLVVvMcOs1FIW1r5qehg07aF30xCf3/U8FDkZ2hs/6ql2d69Xg2LCkLzzZ2bITV6+s0PmA==",
+  "success": true,
+  "projectFilePath": "D:\\c#\\OpenCvTestingTool\\OpenCvTestingTool\\OpenCvTestingTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fernl\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\fernl\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512",
+    "C:\\Users\\fernl\\.nuget\\packages\\win32net\\1.3.0\\win32net.1.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
